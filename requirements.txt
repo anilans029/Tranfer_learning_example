@@ -3,6 +3,8 @@ tqdm
 pandas
 numpy
 PyYAML
+tensorflow
+keras
 
 ### local packages -
 # -e . # << uncomment this to install from setup.py
